@@ -4,7 +4,7 @@
 
 ![Welcome Animation](https://github.com/username/repository-name/blob/main/assets/animation.gif)
 
-👨‍💻 **I am a continuous learner in the world of programming and software development!**  
+👩‍💻 **I am a continuous learner in the world of programming and software development!**  
 Every day, I am excited to discover new tools and technologies to improve my skills and build better projects. 🚀  
 As a **web developer**, I am passionate about creating dynamic and interactive websites, and I always strive to improve my coding practices. 💡
 
@@ -38,7 +38,7 @@ Here are the technologies I work with and enjoy using to create amazing web appl
 Feel free to explore my repositories, open-source projects, and reach out if you want to collaborate on a new project! I'm always open to new challenges and opportunities to learn and grow! 🙌
 
 ## Best regards,  
-**Farahdilaa** 👨‍💻💻
+**Farahdilaa** 👩‍💻💻
 
 
 
