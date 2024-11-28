@@ -34,7 +34,7 @@ Here are the technologies I work with and enjoy using to create amazing web appl
 Feel free to explore my repositories, open-source projects, and reach out if you want to collaborate on a new project! I'm always open to new challenges and opportunities to learn and grow! 🙌
 
 ## Best regards,  
-**Farahdilaa** 👩‍💻💻
+**Faarah** 👩‍💻💻
 
 
 
