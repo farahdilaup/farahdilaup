@@ -1,8 +1,4 @@
-## Hi there 👋
-
 # 🌟 Hello, Welcome to My GitHub Page! 🌟
-
-![Welcome Animation](https://github.com/username/repository-name/blob/main/assets/animation.gif)
 
 👩‍💻 **I am a continuous learner in the world of programming and software development!**  
 Every day, I am excited to discover new tools and technologies to improve my skills and build better projects. 🚀  
